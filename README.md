@@ -47,13 +47,13 @@ You can find me here :
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=jayshivare7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jay Shivare" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayshivare7&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Amit Pawar" /></td>
+<!-- <td><img src="https://github-readme-stats.vercel.app/api?username=jayshivare7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jay Shivare" /> -->
+<!--     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayshivare7&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Amit Pawar" /></td> -->
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshivare7&theme=dark" alt="Amit Pawar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshivare7&theme=dark" alt="Jay Shivare" /></p>
   </div>
 
 
