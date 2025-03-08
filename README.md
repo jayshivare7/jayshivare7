@@ -1,6 +1,6 @@
 
 
-<h1 align="center" >Hi, 👋 I'm <a href="https://www.linkedin.com/in/jayshivare7/" target="_blank"> Jay Shivare </a></h1>
+<h1 align="center" >Hi, 👋 I'm <a href="https://www.linkedin.com/in/jayshivare7/" target="_blank"> Anurag Dubey </a></h1>
 
 You can find me here :
 <p align="left">
